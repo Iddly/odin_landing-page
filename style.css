@@ -17,6 +17,8 @@ body {
     background-color: #1f2937;
     padding-left: 200px;
     padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -48,3 +50,12 @@ body {
 .nav-item:hover a {
     color: #1f2937;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
