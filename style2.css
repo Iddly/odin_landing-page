@@ -34,7 +34,7 @@
     align-items: center;
 }
 
-.nav-links:hover a {
+.nav-items:hover {
     background-color: white;
     color: #1f2937;
 }
